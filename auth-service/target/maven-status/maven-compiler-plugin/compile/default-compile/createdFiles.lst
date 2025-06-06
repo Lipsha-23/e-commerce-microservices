@@ -1,0 +1,8 @@
+com\ecommerce\authservice\model\User.class
+com\ecommerce\authservice\AuthServiceApplication.class
+com\ecommerce\authservice\config\JWTUtil.class
+com\ecommerce\authservice\controller\AuthTestController.class
+com\ecommerce\authservice\config\SecurityConfig.class
+com\ecommerce\authservice\controller\AuthController.class
+com\ecommerce\authservice\service\AuthService.class
+com\ecommerce\authservice\repository\UserRepository.class

@@ -1,0 +1,8 @@
+D:\projects\auth-service\src\main\java\com\ecommerce\authservice\controller\AuthController.java
+D:\projects\auth-service\src\main\java\com\ecommerce\authservice\AuthServiceApplication.java
+D:\projects\auth-service\src\main\java\com\ecommerce\authservice\service\AuthService.java
+D:\projects\auth-service\src\main\java\com\ecommerce\authservice\controller\AuthTestController.java
+D:\projects\auth-service\src\main\java\com\ecommerce\authservice\config\JWTUtil.java
+D:\projects\auth-service\src\main\java\com\ecommerce\authservice\config\SecurityConfig.java
+D:\projects\auth-service\src\main\java\com\ecommerce\authservice\repository\UserRepository.java
+D:\projects\auth-service\src\main\java\com\ecommerce\authservice\model\User.java
